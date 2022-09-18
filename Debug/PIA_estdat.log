@@ -1,0 +1,11 @@
+﻿  codigo.cpp
+e:\eliza\pia_estdat\codigo.cpp(1688): warning C4101: 'existe': variable local sin referencia
+e:\eliza\pia_estdat\codigo.cpp(3258): warning C4244: 'inicializando': conversión de 'std::streamoff' a 'int'; posible pérdida de datos
+e:\eliza\pia_estdat\codigo.cpp(3262): warning C4018: '<': no coinciden signed/unsigned
+e:\eliza\pia_estdat\codigo.cpp(3299): warning C4244: 'inicializando': conversión de 'std::streamoff' a 'int'; posible pérdida de datos
+e:\eliza\pia_estdat\codigo.cpp(3303): warning C4018: '<': no coinciden signed/unsigned
+e:\eliza\pia_estdat\codigo.cpp(3354): warning C4244: 'inicializando': conversión de 'std::streamoff' a 'int'; posible pérdida de datos
+e:\eliza\pia_estdat\codigo.cpp(3358): warning C4018: '<': no coinciden signed/unsigned
+e:\eliza\pia_estdat\codigo.cpp(3407): warning C4244: 'inicializando': conversión de 'std::streamoff' a 'int'; posible pérdida de datos
+e:\eliza\pia_estdat\codigo.cpp(3411): warning C4018: '<': no coinciden signed/unsigned
+  PIA_estdat.vcxproj -> E:\Eliza\PIA_estdat\Debug\PIA_estdat.exe

@@ -1,0 +1,8 @@
+LISTA DE CITAS DE EL MES: mayo, LA SEMANA: 2
+
+Número de cita: 101011
+Nombre del cliente: ALFONSO TAMAYO RODRIGUEZ
+Teléfono del cliente: 2121324343
+Nombre del mecánico: Tania Delgadillo Lopez
+Paquete de servicio: Mantenimiento mayor
+Fecha de cita: jueves, 13 de mayo de 2021, hora:15:30

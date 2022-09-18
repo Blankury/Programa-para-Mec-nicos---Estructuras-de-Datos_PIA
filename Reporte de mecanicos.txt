@@ -1,0 +1,12 @@
+LISTA DE MECANICOS ORDENADOS POR NUMERO DE EMPLEADO
+
+Número de empleado: 12345
+Nombre: Flores RODRIGUEZ ALFONSO
+Turno: MATUTINO
+Especialidad: Afinaciones
+Teléfono: 2121212121
+Número de empleado: 54321
+Nombre: Delgadillo RODRIGUEZ ALFONSO
+Turno: VESPERTINO
+Especialidad: Mantenimiento mayor
+Teléfono: 7878787821
